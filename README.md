@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Index html</title>
+ <title>Index html</title>
 </head>
 <body>
 
