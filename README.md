@@ -2,11 +2,11 @@
 <html>
 <head>
   <meta charset="utf-8">
-<title> Index html</title>
+  <title>Index html</title>
 </head>
 <body>
 
-<h1>My Space</h1>
+<h1>Index</h1>
 <p>Links: <br>
   </p>
   <a href="https://Greensomefire.github.io/knoppen.html"> Buttons </a> <br>
